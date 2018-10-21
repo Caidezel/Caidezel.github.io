@@ -7,3 +7,4 @@ fields:
 - type: blocks
   name: testblock
   label: Test
+  description: llllll
