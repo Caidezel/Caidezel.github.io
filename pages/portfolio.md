@@ -3,7 +3,7 @@ layout: page
 title : Portfolio 
 permalink: /portfolio/
 subtitle: "Mes différents projets" 
-feature-img: "assets/img/pexels/computer.jpeg"
+feature-img: "assets/img/content/portfoliobg.jpg"
 tags: [Archive]
 ---
 

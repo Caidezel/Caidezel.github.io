@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://gouy-antoine.com"
-title: aG.MultiPotentiel - Libérez vos potentialités  # site's title
-description: "Antoine Gouy - Multipotentiel | Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
+title: Antoine Gouy - Multi.Potentialité.e.es  # site's title
+description: "Potentialitées d'un addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: aG.MultiPotentiel # blog's title
+  title: Multi.Potentialité.e.es # blog's title
   avatar: assets/img/content/logo.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
