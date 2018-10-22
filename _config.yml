@@ -18,7 +18,7 @@ theme_settings:
      <p>- Libérez vos potentialités -</br>Addict aux startups / jeux-vidéo</br>Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy</br>Et vous ?...</p>
   header_text_feature_image: assets/img/content/homebg.jpg
   footer_text: >
-   Propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>Retrouvez-moi :
+   Propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
