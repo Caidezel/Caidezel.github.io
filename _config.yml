@@ -1,0 +1,117 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://gouy-antoine.com"
+title: aG.MultiPotentiel - Libérez vos potentialités  # site's title
+description: "Antoine Gouy - Multipotentiel | Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
+
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: aG.MultiPotentiel # blog's title
+  avatar: assets/img/content/logo.svg
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
+
+  # Header and footer text
+  header_text: > #two or three lines to describe your site
+     <p>- Libérez vos potentialités -</br>Addict aux startups / jeux-vidéo</br>Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy</br>Et vous ?...</p>
+  header_text_feature_image: assets/img/content/homebg.jpg
+  footer_text: >
+   Propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>Retrouvez-moi :
+
+  # Icons
+  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  email_address: antoine.gouy@gmail.com # Full email address, e.g. "sam@example.com"
+  behance: Caidezel
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "Caidezel"
+  google_plus:
+  instagram:
+  keybase:
+  linkedin: https://www.linkedin.com/in/antoinegouy/ # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: antoinegouy # "twitter username"
+  vimeo:
+  wordpress:
+  youtube:
+  
+  # Sharing options
+  share_buttons:
+    facebook: true
+    twitter: true
+    google_plus:
+    tumblr:
+    pinterest:
+    pocket:
+    reddit: 
+    linkedin:
+    wordpress:
+    email: true
+
+  # Scripts / Features 
+  google_analytics: UA-44437680-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: antoinegouy
+  katex: true # Enable if using math markup
+  
+  special_page:
+    search: 
+      icon: "search"
+      enabled: true
+    tags:
+      icon: "tags"
+      enabled: true
+  
+  # Localization strings
+  str_follow_on: "Suivez-moi sur"
+  str_rss_follow: "Suivez le flux"
+  str_share_on: "Partagez sur"
+  str_add_to: "Ajoutez à"
+  str_email: "Email"
+  str_tweet: "Tweetez"
+  str_pin_it: "Pin it"
+  str_next_post: "Article suivant"
+  str_previous_post: "Article précèdent"
+  str_next_page: "Suivant"
+  str_previous_page: "Précèdent"
+  str_continue_reading: "Lire la suite"
+  str_javascript_required_disqus: "Merci d'activer JavaScript pour lire les commentaires."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: true
+  
+  
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag]
+#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
