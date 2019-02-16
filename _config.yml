@@ -2,27 +2,27 @@
 baseurl: ""
 url: "https://gouy-antoine.com"
 title: Antoine Gouy - Multi.Potentialité.e.es  # site's title
-description: "Potentialitées d'un addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
+description: "Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Multi.Potentialité.e.es # blog's title
-  avatar: assets/img/content/logo.svg
+  avatar: assets/img/content/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>- Libérez vos potentialités -</br>Addict aux startups / jeux-vidéo</br>Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy</br>Et vous ?...</p>
+     <p>- Libérez vos multipotentialités -</br>Addict aux startups / jeux-vidéo</br>Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy</br>Et vous ?...</p>
   header_text_feature_image: assets/img/content/homebg.jpg
   footer_text: >
    Propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: antoine.gouy@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: hello@gouy-antoine.com # Full email address, e.g. "sam@example.com"
   behance: Caidezel
   bitbucket:
   dribbble:
