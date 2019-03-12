@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://gouy-antoine.com"
-title: Antoine Gouy - Multi.Potentialité.e.es  # site's title
+title: Antoine Gouy - Multi.Potentialité.s  # site's title
 description: "Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Multi.Potentialité.e.es # blog's title
+  title: Multi.Potentialité.s # blog's title
   avatar: assets/img/content/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -54,7 +54,7 @@ theme_settings:
     pinterest:
     pocket:
     reddit: 
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
