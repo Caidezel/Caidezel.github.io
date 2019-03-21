@@ -50,9 +50,9 @@ Du coup, c’est autant par flemme de devoir tout réexpliquer à chaque fois, q
 ## VA-LO-RI-SER !
 
 Rendre l’invisible visible, expliquer mes démarches, prendre du recul sur ces dernières, raconter, écrire, transmettre, passer…
-Beaucoup d’ambitions pour une portée, je pense, moindre... En fait c’est surtout pour écrire pour moi-même, pour prendre du recul, pour avoir un temps réfléxif sur mon travail… 
+Beaucoup d’ambitions pour une portée, je pense, moindre... En fait c’est surtout pour écrire pour moi-même, pour prendre du recul, pour avoir un temps réflexif sur mon travail… 
 
-C’est aussi pour rendre et donner aux autres. Pour montrer ce que tout ce réseau qui s’active autour de moi arrive à formaliser et faire naitre !
+C’est aussi pour rendre et donner aux autres. Pour montrer ce que tout ce réseau qui s’active autour de moi arrive à formaliser et faire naître !
 
 Alors, j’espère avoir un style qui va s’améliorer avec le temp, et que pour les quelques rares qui passeront par ici, vous apprécierez mes articles futures, présents, passés. 🙂
 
