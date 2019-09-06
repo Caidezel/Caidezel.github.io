@@ -31,7 +31,7 @@ theme_settings:
   gitlab:
   github: "Caidezel"
   google_plus:
-  instagram:
+  instagram: antoinegouy.pro
   keybase:
   linkedin: https://www.linkedin.com/in/antoinegouy/ # Full URL
   pinterest:
@@ -60,7 +60,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: UA-44437680-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: antoinegouy
+  disqus_shortname: https-gouy-antoine-com
   katex: true # Enable if using math markup
   
   special_page:
