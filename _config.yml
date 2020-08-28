@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://gouy-antoine.com"
 title: Antoine Gouy - Multi.Potentialité.s  # site's title
-description: "Addict aux startups / jeux-vidéo | Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy" # used by search engines
+description: "Libérez vos potentiels. Le site d'un addict aux startups / jeux-vidéo, d'un designer UI/UX, d'un formateur dans la tech/art, d'un ambassadeur Holacracy" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,10 +15,10 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>- Libérez vos multipotentialités -</br>Addict aux startups / jeux-vidéo</br>Designer UI/UX | Formateur dans la tech/art | Ambassadeur Holacracy</br>Et vous ?...</p>
+     <p>- Libérez vos potentiels</p>
   header_text_feature_image: assets/img/content/homebg.jpg
   footer_text: >
-   Propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>
+   Amoureusement développé par votre hôte, herbergé sur GitHub Page et propulsé par <a href="https://jekyllrb.com/">Jekyll</a> avec une belle dose de <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></br>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -61,7 +61,7 @@ theme_settings:
   # Scripts / Features 
   google_analytics: UA-44437680-1 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: https-gouy-antoine-com
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
   
   special_page:
     search: 
@@ -112,6 +112,6 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-liquify]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]

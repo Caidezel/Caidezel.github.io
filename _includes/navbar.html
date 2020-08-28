@@ -2,7 +2,7 @@
     
     <!-- Logo and title -->
 	<div class="branding">
-		<a href="{{ site.baseurl }}/">
+		<a href="{{ site.url }}/{% if page.url %}{{ page.url }}{% else %}{% endif %}">
 			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 
